@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI4NTNmZGVmM2YyM2YwMjcxNDc5YzBhM2JkZWZhMzdlYmE4MjJmZiZjdD1z/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300"/>
   <div id="badges">
-<!--     <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a> -->
     <a href="https://www.facebook.com/profile.php?id=100089916095333">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
+    <a href="https://qiita.com/ryo3568">
+      <img src="https://img.shields.io/badge/Qiita-green?style=for-the-badge&logo=Qiita&logoColor=white" alt="Qiita Badge"/>
     </a>
     <a href="https://twitter.com/ryoyanagi314">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter    Badge"/>
