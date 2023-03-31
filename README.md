@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ryo3568&show_icons=ture" />
+
+<img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=ryo3568&show_icons=ture" />
 
 <!-- streak -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ryo3568)](https://git.io/streak-stats)
