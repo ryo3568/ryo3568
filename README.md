@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo3568&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Languages and Tools
+## Technology Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,nextjs,nodejs,py,pytorch,react,ts,)](https://skillicons.dev)
