@@ -7,7 +7,7 @@
     <a href="https://qiita.com/ryo3568">
       <img src="https://img.shields.io/badge/Qiita-green?style=for-the-badge&logo=Qiita&logoColor=white" alt="Qiita Badge"/>
     </a>
-    <a href="https://twitter.com/ryoyanagi314">
+    <a href="https://twitter.com/yana31415">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter    Badge"/>
     </a>
   </div>
