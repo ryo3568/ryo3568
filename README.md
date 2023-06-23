@@ -1,3 +1,4 @@
+<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI4NTNmZGVmM2YyM2YwMjcxNDc5YzBhM2JkZWZhMzdlYmE4MjJmZiZjdD1z/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300"/>
   <div id="badges">
@@ -13,7 +14,8 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=ryo3568&style=flat-square&color=blue" alt=""/>
   <h1>Hi there 👋 I'm Ryo Yangimoto</h1>
-</div
+</div>
+-->
   
 ---
 
